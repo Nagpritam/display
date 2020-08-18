@@ -7,4 +7,4 @@ I have also created .NET Core Application(Frontend- HTML,CSS,Bootstrap) for the 
 
 I have created Django web app (Frontend- HTML,CSS,Bootstrap) with help of Python for Travel Booking Centre.
 
-I have created many POC using Azure Artifacts(Logic apps, Azure Data Factory, Databricks etc)
+I have created many POC using Azure Artifacts(Logic apps, Azure Data Factory, Databricks, App Functions etc)
